@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculadoraDePropina</string>
+    <string name="total_amount">Total Amount of tip</string>
+    <string name="percentage_15">15%</string>
+    <string name="button_25">15%</string>
+    <string name="button_35">35%</string>
+    <string name="tip_type">Select tip type:</string>
+    <string name="base_amount">0.0</string>
+</resources>
